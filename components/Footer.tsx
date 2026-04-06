@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -32,13 +31,13 @@ const Footer: React.FC = () => {
               <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#075e54] shadow-sm flex-shrink-0">
                 <i className="fa-brands fa-whatsapp fa-xl"></i>
               </div>
-              <a href="https://wa.me/255744436067" target="_blank" className="font-bold hover:underline text-sm md:text-base">(+255) 744 436 067</a>
+              <a href="https://wa.me/255756224557" target="_blank" className="font-bold hover:underline text-sm md:text-base">(+255) 756 224 557</a>
             </div>
             <div className="flex items-center gap-4">
               <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#4542F7] shadow-sm flex-shrink-0">
                 <i className="fa-solid fa-envelope fa-lg"></i>
               </div>
-              <a href="mailto:info@ysftz.org" target="_blank" className="font-bold hover:underline text-sm md:text-base">info@ysftz.org</a>
+              <a href="mailto:yossosportscharity@gmail.com" target="_blank" className="font-bold hover:underline text-sm md:text-base">yossosportscharity@gmail.com</a>
             </div>
           </div>
           <div className="rounded-xl overflow-hidden border-2 border-[#5a3ea6] h-40 shadow-inner">
